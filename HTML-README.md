@@ -33,9 +33,9 @@ This HTML boilerplate serves as a foundational template for creating webpages. I
 * **Viewport Settings**: Sets the viewport to the width of the device and initial zoom level, ensuring proper scaling on different devices.
 `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 
-* **link**: Links an external stylesheet *styles.css* to apply styling to the webpage.
+* **`<link>`**: Links an external stylesheet *styles.css* to apply styling to the webpage.
 
-* **script**: Links an external JavaScript file *script.js* with the *defer* attribute, ensuring it loads after the HTML content.
+* **`<script>`**: Links an external JavaScript file *script.js* with the *defer* attribute, ensuring it loads after the HTML content.
 
 * **body**: Contains the visible content of the webpage, including headers `<header>`, navigation menus `<nav>`, main content areas `<main>`, sections `<section>`, and footers `<footer>`.
 
