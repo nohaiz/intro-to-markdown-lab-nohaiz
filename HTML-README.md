@@ -26,9 +26,9 @@ This HTML boilerplate serves as a foundational template for creating webpages. I
 
 * `<head>`: The section of an HTML document contains essential meta tags, character encoding, viewport settings, and links to external stylesheets and scripts, ensuring proper display and functionality across devices and browsers.
 
-* `<meta charset="UTF-8">`: Specifies the character encoding of the document.
+* **`<meta charset="UTF-8">`**: Specifies the character encoding of the document.
 
-* `<title>`: Sets the title of the webpage, displayed in the browser tab.
+* **`<title>`**: Sets the title of the webpage, displayed in the browser tab.
 * Sets the viewport to the width of the device and initial zoom level, ensuring proper scaling on different devices.
 `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 
