@@ -1,5 +1,7 @@
 # Writing a Function in JavaScript
 
+![Me fr](https://unsplash.com/photos/a-cat-that-is-laying-down-on-a-bed-qndO2qQ31BQ)
+
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
 ## 1. Basic syntax
@@ -51,4 +53,3 @@ console.log(total) // Expected value: 6
 
 For more information on functions and how they are used in JS, check out the [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions).
 
-[Me fr](https://unsplash.com/photos/a-cat-that-is-laying-down-on-a-bed-qndO2qQ31BQ)
