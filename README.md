@@ -20,7 +20,8 @@ const functionName = (params) => {
 
 _*Example*_:
 
-```const greet = (name) => {
+```
+const greet = (name) => {
   console.log("Hello, " + name + "!");
 }
 ```
