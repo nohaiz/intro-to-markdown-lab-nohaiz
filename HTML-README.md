@@ -24,7 +24,7 @@ This HTML boilerplate serves as a foundational template for creating webpages. I
 
 * **`<html lang="en">`**: Defines the root element of the HTML document and specifies the document's language (English in this case).
 
-* `<head>`: The section of an HTML document contains essential meta tags, character encoding, viewport settings, and links to external stylesheets and scripts, ensuring proper display and functionality across devices and browsers.
+* **`<head>`**: The section of an HTML document contains essential meta tags, character encoding, viewport settings, and links to external stylesheets and scripts, ensuring proper display and functionality across devices and browsers.
 
 * **`<meta charset="UTF-8">`**: Specifies the character encoding of the document.
 
