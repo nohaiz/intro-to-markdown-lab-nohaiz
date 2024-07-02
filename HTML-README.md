@@ -37,6 +37,6 @@ This HTML boilerplate serves as a foundational template for creating webpages. I
 
 * **`<script>`**: Links an external JavaScript file *script.js* with the *defer* attribute, ensuring it loads after the HTML content.
 
-* **body**: Contains the visible content of the webpage, including headers `<header>`, navigation menus `<nav>`, main content areas `<main>`, sections `<section>`, and footers `<footer>`.
+* **`<body>`**: Contains the visible content of the webpage, including headers `<header>`, navigation menus `<nav>`, main content areas `<main>`, sections `<section>`, and footers `<footer>`.
 
 * **Semantic Elements**: Uses HTML5 semantic elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`) to organize and structure content logically.
